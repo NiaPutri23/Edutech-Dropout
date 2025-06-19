@@ -6,7 +6,7 @@
 Jaya Jaya Institut adalah institusi pendidikan tinggi yang berdiri sejak tahun 2000. Dalam beberapa tahun terakhir, pihak manajemen mencatat jumlah siswa yang dropout meningkat secara signifikan. Hal ini mencoreng reputasi akademik dan menimbulkan kerugian finansial serta kepercayaan masyarakat.
 
 ### Permasalahan Bisnis
-Bagaimana memprediksi siswa yang berpotensi dropout sedini mungkin agar dapat dilakukan intervensi secara proaktif?
+Jaya Jaya Institut, sebagai institusi pendidikan yang telah berdiri sejak tahun 2000, tengah menghadapi permasalahan serius terkait tingginya angka siswa yang tidak menyelesaikan pendidikan alias mengalami dropout. Fenomena ini tidak hanya berdampak pada menurunnya angka kelulusan dan efektivitas penyelenggaraan pendidikan, tetapi juga berpotensi merusak citra dan reputasi institusi di mata masyarakat dan calon siswa baru.
 
 ### Cakupan Proyek
 - Melakukan analisis eksploratif terhadap data siswa.
@@ -85,17 +85,15 @@ Berdasarkan visualisasi data performa akademik mahasiswa antara yang Dropout dan
 ### Rekomendasi Action Items
 Berdasarkan insight tersebut, berikut beberapa action items yang bisa dilakukan oleh Jaya Jaya Institut:
 
-1. Early Detection & Monitoring Akademik:
-- Buat sistem monitoring performa semester pertama dan kedua, terutama jumlah mata kuliah yang disetujui dan nilai semester.
-- Jika mahasiswa menunjukkan performa rendah, segera beri intervensi seperti bimbingan belajar atau konseling.
-
-2. Pemanfaatan Riwayat Nilai Masuk dan Kualifikasi Sebelumnya:
-- Jadikan admission grade dan previous qualification grade sebagai salah satu parameter risiko dropout.
-- Mahasiswa dengan nilai masuk rendah bisa diberi program pendampingan akademik sejak awal.
-
-3. Penggunaan Model Machine Learning untuk Prediksi Dropout:
-- Gunakan sistem prediksi yang telah dibuat untuk mengidentifikasi mahasiswa berisiko tinggi sejak awal semester.
-- Hubungkan dengan dashboard agar manajemen bisa melihat prediksi risiko secara berkala.
-
-4. Program Beasiswa & Pendanaan:
-- Beri perhatian khusus pada mahasiswa yang kesulitan keuangan (misal: tuition fees tidak up to date) karena itu bisa memengaruhi dropout.
+- Lakukan pemantauan ketat terhadap jumlah mata kuliah yang disetujui di semester awal.
+- Terapkan program intervensi akademik seperti remedial, tutoring, atau mentoring bagi mahasiswa dengan capaian rendah.
+- Implementasikan sistem deteksi dini mahasiswa berisiko berdasarkan capaian SKS semester 1 dan 2.
+- Gunakan nilai kualifikasi sebelumnya sebagai salah satu indikator untuk seleksi masuk atau kebutuhan program matrikulasi.
+- Tawarkan kelas dasar atau penguatan konsep untuk mahasiswa dengan nilai awal yang rendah.
+- Kembangkan sistem asesmen awal untuk memetakan kesiapan akademik mahasiswa baru.
+- Revisi standar nilai masuk agar mencerminkan kesiapan akademik yang lebih baik.
+- Sediakan jalur alternatif dengan pelatihan prakuliah untuk calon mahasiswa dengan nilai rendah.
+- Evaluasi konten, metode ajar, dan beban studi dari course dengan angka dropout tinggi.
+- Lakukan review kinerja dosen pengampu dan berikan pelatihan.
+- Terapkan penyesuaian kurikulum atau model belajar aktif untuk course yang bermasalah.
+- Perluas akses beasiswa untuk mahasiswa yang berisiko tinggi dropout.
