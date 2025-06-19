@@ -5,7 +5,7 @@ import numpy as np
 model = joblib.load('model_dropout.pkl')
 feature_order = joblib.load('features.pkl') 
 
-st.title("🎓 Prediksi Risiko Dropout Mahasiswa")
+st.title("🎓 Prediksi Risiko Dropout Mahasiswa - Ichinisannyaw")
 st.write("Masukkan data akademik mahasiswa berikut untuk memprediksi kemungkinan dropout.")
 
 # Input user untuk variabel penting

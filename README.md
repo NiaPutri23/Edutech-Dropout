@@ -40,11 +40,19 @@ Public dashboard dapat diakses pada: [Dashboard Edutech](http://localhost:3010/p
 ![ichinisannyaw-dashboard-2](ichinisannyaw-dashboard-2.png)
 
 ## Menjalankan Sistem Machine Learning
-Jelaskan cara menjalankan protoype sistem machine learning yang telah dibuat. Selain itu, sertakan juga link untuk mengakses prototype tersebut.
+Prototype sistem Machine learning dapat dijalankan secara lokal ataupun dengan mengakses link public.
 
+Secara lokal:
+1. Masuk ke dalam folder Proyek 8 Edutech 
+2. Jalankan 
+```
+streamlit run app.py
 ```
 
-```
+atau
+
+Akses melalui link public: 
+https://niaputri23-edutech-dropout-app-prumsn.streamlit.app/
 
 ## Conclusion
 Terdapat 4.424 total siswa dengan 32% nya terkena dropout dan sisanya adalah siswa yang masih enrolled dan graduated. Usia terbanyak adalah pada umur 15-22 tahun dan semakin naik usia semakin menurun banyaknya siswa.
